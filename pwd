@@ -41,7 +41,10 @@ twitter 778
 weibo 090
 udemy design
 阿里云 777
-80vps Nicksonsone 775 440105201608114023 哈哈哈 VPSpwd:GEMsone
+80vps Nicksonsone 775 440105201608114023 哈哈哈 root:GEMsone
+      重装或者重新购买服务后，进入vps管理界面。界面中“vps初始密码“是root密码，可以自己设置，设置完有一串新密码要记录下来。
+      ”SolusVM管理版面“可以设置vps，重启重装等，登进去需要账号密码。账号密码可以在右边的”重置用户登陆密码“设置
+　　　　
 kaggle: Nicksone nicksonsone@gmail.com 888
 超级课程表 245
 广马 111
